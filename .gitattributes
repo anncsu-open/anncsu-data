@@ -1,3 +1,4 @@
 *.parquet filter=lfs diff=lfs merge=lfs -text
 *.duckdb filter=lfs diff=lfs merge=lfs -text
 com01012025_wgs84.gpkg filter=lfs diff=lfs merge=lfs -text
+italia_whereabouts.db.zip filter=lfs diff=lfs merge=lfs -text
